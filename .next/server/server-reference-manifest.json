@@ -1,5 +1,24 @@
 {
-  "node": {},
+  "node": {
+    "bd08c9af7b9267391630a4064c94fa776b0d6eb3": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CGitHub%5C%5Cistore%5C%5Cfrontend%5C%5Csrc%5C%5Cservices%5C%5Cget-auth-token.ts%22%2C%5B%22getAuthToken%22%5D%5D%2C%5B%22D%3A%5C%5CGitHub%5C%5Cistore%5C%5Cfrontend%5C%5Csrc%5C%5Cservices%5C%5Clogout-action.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!",
+        "app/_not-found/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CGitHub%5C%5Cistore%5C%5Cfrontend%5C%5Csrc%5C%5Cservices%5C%5Cget-auth-token.ts%22%2C%5B%22getAuthToken%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/_not-found/page": "action-browser"
+      }
+    },
+    "4a800bf33c7e2bf8e577b0c836f076649892d275": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CGitHub%5C%5Cistore%5C%5Cfrontend%5C%5Csrc%5C%5Cservices%5C%5Cget-auth-token.ts%22%2C%5B%22getAuthToken%22%5D%5D%2C%5B%22D%3A%5C%5CGitHub%5C%5Cistore%5C%5Cfrontend%5C%5Csrc%5C%5Cservices%5C%5Clogout-action.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "gHGsI/mkFQ7LgKKPmFCI2TJ3/FgqTdpQQlqjp0uDnnw="
+  "encryptionKey": "gcmoasQgbPQh1O9tpS5al9ZxIMHqR1q8AfJilP2aRbE="
 }
